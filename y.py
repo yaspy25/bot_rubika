@@ -2,7 +2,6 @@ import uuid
 import json
 import asyncio
 from warnings import filters
-from rubpy import BotClient
 #from rubpy import rubpy.bot.filters
 from rubpy.bot.models import Update
 
